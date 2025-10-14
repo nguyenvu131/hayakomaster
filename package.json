@@ -1,0 +1,13 @@
+{
+  "name": "nodeaiven",
+  "version": "1.0.0",
+  "description": "Node.js + Aiven PostgreSQL demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pg": "^8.16.3"
+  }
+}
